@@ -8,3 +8,5 @@ dependencies = [
     "pillow>=11.3.0",
     "scipy>=1.16.2",
 ]
+
+[tool.uv.workspace]
