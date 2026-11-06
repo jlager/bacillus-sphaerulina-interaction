@@ -22,3 +22,7 @@ Lightweight image processing and growth modeling for Bacillus–Sphaerulina plat
 - Growth and fitted growth-rate plots save to `data/figures/one_vs_one/` and `data/figures/one_vs_all/`.
 - Colony growth overlays save to `data/figures/overlays/`.
 - Figures export as PNG and SVG; formats are configured with `FIGURE_FORMATS` in `config.py`.
+
+## License
+
+Licensed under the GNU General Public License, version 3. See [LICENSE](LICENSE).
